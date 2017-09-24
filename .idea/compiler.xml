@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base" />
+        <module name="base-same-module-name" />
+        <module name="base-same-package" />
+        <module name="use-base" />
+        <module name="use-base-without-module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base" target="1.9" />
+      <module name="base-same-module-name" target="1.9" />
+      <module name="base-same-package" target="1.9" />
+      <module name="java9study" target="1.9" />
+      <module name="use-base" target="1.9" />
+      <module name="use-base-without-module" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

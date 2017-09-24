@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-same-module-name/base-same-module-name.iml" filepath="$PROJECT_DIR$/base-same-module-name/base-same-module-name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-same-package/base-same-package.iml" filepath="$PROJECT_DIR$/base-same-package/base-same-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9study.iml" filepath="$PROJECT_DIR$/java9study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/use-base/use-base.iml" filepath="$PROJECT_DIR$/use-base/use-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/use-base-without-module/use-base-without-module.iml" filepath="$PROJECT_DIR$/use-base-without-module/use-base-without-module.iml" />
+    </modules>
+  </component>
+</project>
